@@ -190,3 +190,6 @@ export const Button = () => {
 
 export default Button;
 ```
+
+## Agradecimientos
+Thanks to @jherr for his [tutorial](https://youtu.be/t-nchkL9yIg?si=rNcSc2MZ0_9MEDx7)!
